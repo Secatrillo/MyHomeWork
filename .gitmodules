@@ -1,0 +1,4 @@
+[submodule "src/test/java/TripletDeqTests"]
+	path = src/test/java/TripletDeqTests
+	url = https://github.com/ltKy3mu4/TripletDeqTests.git
+	branch = master
